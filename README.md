@@ -1,6 +1,6 @@
-# Go-Calculus
+# go-calculus
 
-Go-Calculus is a comprehensive library implemented in Go, providing functionalities for various calculus computations. This library aims to provide a reliable and efficient way to perform calculus operations, including limit calculations, differentiation, integration, and more. It also includes specific applications of calculus such as discontinuity resolution and higher-order differentiation.
+go-calculus is a comprehensive library implemented in Go, providing functionalities for various calculus computations. This library aims to provide a reliable and efficient way to perform calculus operations, including limit calculations, differentiation, integration, and more. It also includes specific applications of calculus such as discontinuity resolution and higher-order differentiation.
 
 ## Features
 
